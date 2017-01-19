@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "403549103533",
+    "firebase_url": "https://iotworkshoptest.firebaseio.com",
+    "project_id": "iotworkshoptest",
+    "storage_bucket": "iotworkshoptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403549103533:android:e2298fb7f9bac314",
+        "android_client_info": {
+          "package_name": "com.novacompany.iotworkshoptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403549103533-orib4f4brcfvhj3skmfsmf6crrrrjtnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novacompany.iotworkshoptest",
+            "certificate_hash": "C911A01000E8DCFF9AF9E0C433B1FA6A7FB3FC77"
+          }
+        },
+        {
+          "client_id": "403549103533-n3skd0sbq3dpiv454rmunug931bq2ub7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmHc6sXcyBMvuD7MYkbAgUDdbfuxVvjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403549103533-n3skd0sbq3dpiv454rmunug931bq2ub7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
